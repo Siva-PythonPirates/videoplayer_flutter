@@ -5,9 +5,9 @@ class HomePage extends StatelessWidget {
   final List<String> videoUrls = [
     'https://siva-pythonpirates.github.io/lion.mp4',
     'https://siva-pythonpirates.github.io/butterfly.mp4',
-    'https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4',
-    'https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4',
-    'https://sample-videos.com/video123/mp4/480/big_buck_bunny_480p_1mb.mp4',
+    'https://siva-pythonpirates.github.io/Dino.mp4',
+    'https://siva-pythonpirates.github.io/KingFisher.mp4',
+    'https://siva-pythonpirates.github.io/peacock.mp4',
 
   ];
 
